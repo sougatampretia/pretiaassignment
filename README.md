@@ -6,7 +6,9 @@ This document very briefly explained how to donwload the code and how to unit te
 
 In order to run this application Java 1.8 must be configured in the machine along with Maven 3.x. ( It is tested with maven 3.6.0 ).
 
-# Download download the application from following links 
+# Code Download 
+
+Download the application from following links https://github.com/sougatampretia/pretiaassignment
 
 # Compile and Unit Testing
 
